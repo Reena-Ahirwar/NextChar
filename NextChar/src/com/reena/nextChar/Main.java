@@ -29,7 +29,4 @@ public class Main {
         return stringBuilder.toString();
     }
 
-    public static void main(String[] args) {
-        System.out.println(nextChar("123 zzZZ *3"));
-    }
 }
